@@ -1,2 +1,2 @@
-# client-android
-An example App to guide Android apps developers how to use the SecondMindAI voice SDK
+# Demo RTP Client App
+An example App to usecase an in-app integration of SecondMind AI voice SDK
